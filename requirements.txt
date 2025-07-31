@@ -3,3 +3,4 @@ pydantic
 transformers
 sentence_transformers
 torch
+uvicorn
